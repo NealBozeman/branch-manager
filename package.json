@@ -1,0 +1,8 @@
+{
+  "name": "branch-manager",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "yaml": "^2.3.4"
+  }
+}
