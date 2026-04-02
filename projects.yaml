@@ -1,9 +1,7 @@
 # Branch Manager - Project Registry
 
 projects:
-  # Placeholder - add your projects here
-  # Format: name: repo: "...", env: ".env.name", defaultBranch: "main"
-  test:
-    repo: https://github.com/2urly/test.git
-    env: .env.test
+  livemenus:
+    repo: https://github.com/NealBozeman/livemenus.git
+    env: /home/njb/branch-manager/.env.livemenus
     defaultBranch: main
